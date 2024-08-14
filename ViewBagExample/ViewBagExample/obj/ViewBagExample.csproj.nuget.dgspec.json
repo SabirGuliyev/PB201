@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj": {}
+    "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj": {
+    "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
+        "projectUniqueName": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
         "projectName": "ViewBagExample",
-        "projectPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
+        "projectPath": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
         "packagesPath": "C:\\Users\\sabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ViewBagExample\\ViewBagExample\\obj\\",
+        "outputPath": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

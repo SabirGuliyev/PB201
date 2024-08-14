@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\",
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\viewbagexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\viewbagexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\viewbagexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\viewbagexample\\viewbagexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|c:\\users\\sabir\\desktop\\pb201\\viewbagexample\\viewbagexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1CECA2-801E-4EE1-8D84-02665A70B8BB}|ViewBagExample\\ViewBagExample.csproj|solutionrelative:viewbagexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,82 +50,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\ViewModels\\HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "ViewBagExample\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewModels\\HomeVM.cs",
               "RelativeToolTip": "ViewBagExample\\ViewModels\\HomeVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:38:36.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T11:38:36.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Models\\Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "ViewBagExample\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Models\\Teacher.cs",
               "RelativeToolTip": "ViewBagExample\\Models\\Teacher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:35:11.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T11:35:11.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "ViewBagExample\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "ViewBagExample\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T11:02:31.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T11:02:31.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Models\\Student.cs",
               "RelativeDocumentMoniker": "ViewBagExample\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Models\\Student.cs",
               "RelativeToolTip": "ViewBagExample\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:17:10.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T10:17:10.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ViewBagExample\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ViewBagExample\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T10:12:15.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T10:12:15.696Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ViewBagExample\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ViewBagExample\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T10:11:18.41Z",
               "EditorCaption": ""
@@ -134,57 +133,49 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ViewBagExample\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ViewBagExample\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAA7wDsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:09:28.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T10:09:28.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ViewBagExample\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "ViewBagExample\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T10:13:48.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T10:13:48.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ViewBagExample",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
+              "Title": "ViewBagExample.csproj",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
               "RelativeDocumentMoniker": "ViewBagExample\\ViewBagExample.csproj",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\ViewBagExample.csproj",
               "RelativeToolTip": "ViewBagExample\\ViewBagExample.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-13T10:08:51.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-08-13T10:08:51.188Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Program.cs",
               "RelativeDocumentMoniker": "ViewBagExample\\Program.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ViewBagExample\\ViewBagExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB201\\ViewBagExample\\ViewBagExample\\Program.cs",
               "RelativeToolTip": "ViewBagExample\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:04:45.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T10:04:45.975Z"
             }
           ]
         }
