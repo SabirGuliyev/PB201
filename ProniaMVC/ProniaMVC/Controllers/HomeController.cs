@@ -1,48 +1,38 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using ProniaMVC.DAL;
 using ProniaMVC.Models;
+
 using ProniaMVC.ViewModels;
 
 namespace ProniaMVC.Controllers
 {
+
+    //DI dependency injection
+    //IOC/DIP inverse of control/ dependency inversion principle
+    //IOC container/DI Container
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly AppDbContext _context;
+        public HomeController(AppDbContext context)
         {
-
-            List<Slide> slides= new List<Slide> { 
-            new Slide{
-            Id = 1,
-            Title="Title 1",
-            SubTitle="SubTitle 1",
-            Description="Endirim var",
-            Order=1,
-            Image="1-10-270x300.jpg"
-
-            },
-             new Slide{
-            Id = 2,
-            Title="Title 2",
-            SubTitle="SubTitle 2",
-            Description="Endirim var helede",
-            Order=3,
-            Image="1-2.png"
-
-            },
-              new Slide{
-            Id = 3,
-            Title="Title 3",
-            SubTitle="SubTitle 3",
-            Description="Endirim var sabaha qeder",
-            Order=2,
-            Image="1-3.png"
-
-            }
-
-            };
+            _context = context;
+        }
+        public async Task<IActionResult> Index()
+        {
+          
+            
 
             HomeVM homeVM = new HomeVM { 
-            Slides = slides.OrderBy(s=>s.Order).Take(2).ToList()
+            Slides =await _context.Slides.OrderBy(s => s.Order).Take(2).ToListAsync(),
+            Products=await _context.Products
+            .OrderByDescending(p=>p.CreatedAt)
+            .Take(8)
+            .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null))
+            .ToListAsync()
             };
+
+
             return View(homeVM);
         }
     }
