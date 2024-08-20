@@ -1,4 +1,4 @@
-﻿@model List<Category>
+﻿@model List<Slide>
 
 @{
     int no = 0;
@@ -9,12 +9,12 @@
         <div class="row">
 
             <div class="col-lg-12 grid-margin stretch-card">
-                
+
                 <div class="card">
-                    
+
                     <div class="card-body">
-                        <h4 class="card-title">Category Table</h4>
-                        <a asp-action="create" class="btn btn-success">Create Category</a>
+                        <h4 class="card-title">Slide Table</h4>
+                        <a asp-action="create" class="btn btn-success">Create Slide</a>
                         <div class="table-responsive">
                             <table class="table table-striped">
                                 <thead>
@@ -23,10 +23,13 @@
                                             No
                                         </th>
                                         <th>
-                                            Name
+                                            Image
                                         </th>
                                         <th>
-                                            Product Count
+                                            Title
+                                        </th>
+                                        <th>
+                                            Order
                                         </th>
                                         <th>
                                             Settings
@@ -34,25 +37,28 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    @foreach (Category category in Model)
+                                    @foreach (Slide slide in Model)
                                     {
                                         @* ctrl+K+D *@
                                         no++;
 
                                         <tr>
                                             <td class="py-1">
-                                               @no
+                                                @no
                                             </td>
                                             <td>
-                                                <p> @category.Name</p>
-                                              
+                                                <img src="~/assets/images/website-images/@slide.Image"/>
+
                                             </td>
                                             <td>
-                                                <p>@category.Products.Count</p>
+                                                <p>@slide.Title</p>
                                             </td>
                                             <td>
-                                                <a asp-action="Update" asp-route-id="@category.Id" class="btn btn-warning btn-info"><i class="mdi mdi-pencil"></i></a>
-                                                <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger btn-info"><i class="mdi mdi-delete"></i></a>
+                                                <p>@slide.Order</p>
+                                            </td>
+                                            <td>
+                                                <a asp-action="Update" asp-route-id="@slide.Id" class="btn btn-warning btn-info"><i class="mdi mdi-pencil"></i></a>
+                                                <a asp-action="Delete" asp-route-id="@slide.Id" class="btn btn-danger btn-info"><i class="mdi mdi-delete"></i></a>
                                                 <a class="btn btn-primary"><i class="mdi mdi-email-open"></i></a>
                                             </td>
 
